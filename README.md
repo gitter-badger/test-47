@@ -6,6 +6,4 @@ This is just a test
 Just playing around with Github
 
 
-New Commit from PC
-
-now what
+# I really need to learn this stuff so i can better code
